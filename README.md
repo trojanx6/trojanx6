@@ -14,7 +14,7 @@
 
 - 🌱 I am still continuing to learn
 
-- 📫 How to reach me **xxsrfx@gmail.com*
+- 📫 How to reach me **xxsrfx@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
