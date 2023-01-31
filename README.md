@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <div>
-<img src="https://komarev.com/ghpvc/?username=trojanx6style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=trojanx6&label=Profil+Views" alt=""/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -21,7 +21,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-
-![](https://komarev.com/ghpvc/?username=trojanx6&label=Profil+Views)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trojanx6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
