@@ -72,6 +72,5 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trojanx6&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="trojanx6" /></p>
-ter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ![](https://github.com/trojanx6)
