@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=trojanx6&theme=dark&background=000000)]
-[!(https://komarev.com/ghpvc/?username=trojanx6&label=Profil+Views)](https://git.io/streak-stats)
+
+![] (https://komarev.com/ghpvc/?username=trojanx6&label=Profil+Views) (https://git.io/streak-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trojanx6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
