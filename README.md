@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naci Caner</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Student at KarşıYaka Atatürk Anadolu Lisesi🌟.</h3>
 
 <br>
 
