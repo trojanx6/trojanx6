@@ -74,4 +74,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trojanx6&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="trojanx6" /></p>
 
 
-<img alt="Naci Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=trojanx6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
